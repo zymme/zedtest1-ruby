@@ -6,7 +6,7 @@ class ZedReadFile
     puts "about to reade file " + filename
 
     #quick test comment
-    
+
   end
 
 
